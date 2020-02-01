@@ -70,7 +70,7 @@ class Game extends Component {
                         {this.state.imageArray.map(item => {
                             return (
                                 <div className="col-md-2">
-                                    <img key={item.name} className="img-fluid p-2" src={item.image} onClick={() => this.playGame(item.name)} alt="superhero" />
+                                    <img key={item.name} className="img-fluid p-2 mt-3" src={item.image} onClick={() => this.playGame(item.name)} alt="superhero" />
                                 </div>
                             )
                         })}

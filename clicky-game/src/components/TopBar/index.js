@@ -2,7 +2,7 @@ import React from "react";
 
 function TopBar(props) {
     return (
-        <div className = "top-bar mt-4 mb-4">
+        <div className = "top-bar mt-3 mb-4">
             <div className ="row">
                 <div className ="col-md-4">
                     <h4>Clicky Game</h4>
