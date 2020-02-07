@@ -9,8 +9,15 @@ class Game extends Component {
         clickedArray: [],
         Score: 0,
         topScore: 0,
-        msg: "click image to play game!"
+        msg: "Click an Image to Play Game!"
     };
+
+    componentDidMount() {
+        const shuffledArray = this.randomizeArray();
+        this.setState({
+            imageArray: shuffledArray,
+        });
+    }
 
     playGame = name => {
         
@@ -21,7 +28,7 @@ class Game extends Component {
                 imageArray: shuffledArray,
                 Score: 0,
                 clickedArray: [],
-                msg: "you guessed incorrectly!"
+                msg: "You Guessed Incorrectly!"
             })
         }
         else {
@@ -33,7 +40,7 @@ class Game extends Component {
                 clickedArray: newArray,
                 Score: newScore,
                 topScore: newtopScore,
-                msg: "you guessed correctly!"
+                msg: "You Guessed Correctly!"
             });
         };
     };
