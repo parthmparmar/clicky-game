@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.b0398a27.chunk.css",
+    "main.js": "/clicky-game/static/js/main.920acde9.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.920acde9.chunk.js.map",
+    "runtime-main.js": "/clicky-game/static/js/runtime-main.24c47d54.js",
+    "runtime-main.js.map": "/clicky-game/static/js/runtime-main.24c47d54.js.map",
+    "static/js/2.bf609584.chunk.js": "/clicky-game/static/js/2.bf609584.chunk.js",
+    "static/js/2.bf609584.chunk.js.map": "/clicky-game/static/js/2.bf609584.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.cccbd5562524413468dfbe8579379c42.js": "/clicky-game/precache-manifest.cccbd5562524413468dfbe8579379c42.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.b0398a27.chunk.css.map": "/clicky-game/static/css/main.b0398a27.chunk.css.map",
+    "static/js/2.bf609584.chunk.js.LICENSE.txt": "/clicky-game/static/js/2.bf609584.chunk.js.LICENSE.txt",
+    "static/media/baby_yoda.jpg": "/clicky-game/static/media/baby_yoda.fa1b0be8.jpg",
+    "static/media/batman.jpg": "/clicky-game/static/media/batman.640d3f99.jpg",
+    "static/media/captain_america.jpg": "/clicky-game/static/media/captain_america.89c4fa2f.jpg",
+    "static/media/hulk.jpg": "/clicky-game/static/media/hulk.156484dc.jpg",
+    "static/media/iorn_man.jpg": "/clicky-game/static/media/iorn_man.6ad21feb.jpg",
+    "static/media/spider_man.jpg": "/clicky-game/static/media/spider_man.c6b9716b.jpg",
+    "static/media/storm.jpg": "/clicky-game/static/media/storm.b9a5a4fd.jpg",
+    "static/media/subzero.jpg": "/clicky-game/static/media/subzero.ee512b86.jpg",
+    "static/media/superman.jpg": "/clicky-game/static/media/superman.5a78bb12.jpg",
+    "static/media/venom.jpg": "/clicky-game/static/media/venom.124d942f.jpg",
+    "static/media/wolverine.jpg": "/clicky-game/static/media/wolverine.0a4af948.jpg",
+    "static/media/wonder_woman.jpg": "/clicky-game/static/media/wonder_woman.6cdcd3bd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24c47d54.js",
+    "static/js/2.bf609584.chunk.js",
+    "static/css/main.b0398a27.chunk.css",
+    "static/js/main.920acde9.chunk.js"
+  ]
+}
